@@ -1,0 +1,8 @@
+/Users/angelosemedo/Documents/Pasta Sem Título/bin/Debug/netcoreapp1.1/Pasta Sem Título.deps.json
+/Users/angelosemedo/Documents/Pasta Sem Título/bin/Debug/netcoreapp1.1/Pasta Sem Título.runtimeconfig.json
+/Users/angelosemedo/Documents/Pasta Sem Título/bin/Debug/netcoreapp1.1/Pasta Sem Título.runtimeconfig.dev.json
+/Users/angelosemedo/Documents/Pasta Sem Título/bin/Debug/netcoreapp1.1/Pasta Sem Título.dll
+/Users/angelosemedo/Documents/Pasta Sem Título/bin/Debug/netcoreapp1.1/Pasta Sem Título.pdb
+/Users/angelosemedo/Documents/Pasta Sem Título/obj/Debug/netcoreapp1.1/Pasta Sem Título.AssemblyInfo.cs
+/Users/angelosemedo/Documents/Pasta Sem Título/obj/Debug/netcoreapp1.1/Pasta Sem Título.dll
+/Users/angelosemedo/Documents/Pasta Sem Título/obj/Debug/netcoreapp1.1/Pasta Sem Título.pdb
