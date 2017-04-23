@@ -20,8 +20,6 @@ namespace Pasta_Sem_Título
                     Console.WriteLine(" - {0}", blog.Url);
                 }
             }
-
-
         }
     }
 }
